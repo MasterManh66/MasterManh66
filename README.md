@@ -27,7 +27,10 @@
 -  🔭  *Education:* Students at Hanoi University of Mining and Geology.
 -  🌱  *I'm working:* Backend developers.
 -  👯  *Hobbies:*
-      -  Listening to music 🎧 & Exercise 🏋️‍♂️& Read stories 📚 & Watch cartoons 💻
+      -  Listening to music 🎧
+      -  Exercise 🏋️‍♂️
+      -  Read stories 📚
+      -  Watch cartoons 💻
 -  🤔  *Life motto:* It's never too late to start.
 -  💬  *Ask me about:* Java, Spring Boot, PhP/Laravel, C#.
 -  ⚡  *Goal:* I want to be a full-stask programmer.
