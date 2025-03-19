@@ -15,7 +15,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnetcore" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
@@ -24,12 +24,12 @@
 
 ### <i>About Me</i>
 
-- 🔭 **Education:**Students at Hanoi University of Mining and Geology.
-- 🌱 **I'm working:** Backend developers.
-- 👯 **Hobbies :** Listening to music 🎧 & Exercise 🏋️‍♂️& Read stories 📚 & Watch cartoons 💻
-- 🤔 **Life motto:** It's never too late to start.
-- 💬 **Ask me about:** **Java, Spring Boot, PhP/Laravel, C#**
-- ⚡ **Goal:** I want to be a full-stask programmer.
+-  🔭  Education: Students at Hanoi University of Mining and Geology.
+-  🌱  I'm working: Backend developers.
+-  👯  Hobbies : Listening to music 🎧 & Exercise 🏋️‍♂️& Read stories 📚 & Watch cartoons 💻
+-  🤔  Life motto: It's never too late to start.
+-  💬  Ask me about: Java, Spring Boot, PhP/Laravel, C#.
+-  ⚡  Goal: I want to be a full-stask programmer.
 
 ---
 
@@ -37,6 +37,7 @@
   <tr>
     <td>
       <img width="780px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterManh66&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-  C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </td>
     <td>
        <img align="center" width="1000px" src="https://github-readme-stats.vercel.app/api?username=MasterManh66&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
     </td>
