@@ -16,20 +16,21 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnetcore" width="40" height="40"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="aspnetcore" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### <i>About Me</i>
 
--  🔭  Education: Students at Hanoi University of Mining and Geology.
--  🌱  I'm working: Backend developers.
--  👯  Hobbies : Listening to music 🎧 & Exercise 🏋️‍♂️& Read stories 📚 & Watch cartoons 💻
--  🤔  Life motto: It's never too late to start.
--  💬  Ask me about: Java, Spring Boot, PhP/Laravel, C#.
--  ⚡  Goal: I want to be a full-stask programmer.
+-  🔭  *Education:* Students at Hanoi University of Mining and Geology.
+-  🌱  *I'm working:* Backend developers.
+-  👯  *Hobbies:*
+      -  Listening to music 🎧 & Exercise 🏋️‍♂️& Read stories 📚 & Watch cartoons 💻
+-  🤔  *Life motto:* It's never too late to start.
+-  💬  *Ask me about:* Java, Spring Boot, PhP/Laravel, C#.
+-  ⚡  *Goal:* I want to be a full-stask programmer.
 
 ---
 
